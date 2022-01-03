@@ -1,7 +1,5 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renshimosawa&layout=compact&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=renshimosawa&theme=radical&show_icons=ture" />
-</p>
+## [nord_dark](./nord_dark/README.md)
+[![](https://raw.githubusercontent.com/renshimosawa/renshimosawa/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/renshimosawa/renshimosawa/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/renshimosawa/renshimosawa/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/renshimosawa/renshimosawa/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/renshimosawa/renshimosawa/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=renshimosawa&theme=radical&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)

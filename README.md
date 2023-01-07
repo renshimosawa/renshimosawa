@@ -20,14 +20,6 @@ This is personal account. I'm usualy using another.
 ![Gulp](https://img.shields.io/badge/-Gulp-f5f5f5.svg?logo=gulp&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-f5f5f5.svg?logo=python&style=for-the-badge)
 
-## Design Tool
-![Figma](https://img.shields.io/badge/-Figma-f5f5f5.svg?logo=figma&style=for-the-badge)
-![xd](https://img.shields.io/badge/-xd-FF2BC2.svg?logo=adobe-xd&style=for-the-badge&logoColor=white)
-![illustrator](https://img.shields.io/badge/-illustrator-FF7C00.svg?logo=adobe-illustrator&style=for-the-badge&logoColor=white)
-![photoshop](https://img.shields.io/badge/-photoshop-00C8FF.svg?logo=adobe-photoshop&style=for-the-badge&logoColor=white)
-![premiere](https://img.shields.io/badge/-premiere-EA77FF.svg?logo=adobe-premiere&style=for-the-badge&logoColor=white)
-![AfterEffects](https://img.shields.io/badge/-After%20Effects-D291FF.svg?logo=adobe-aftere-ffects&style=for-the-badge&logoColor=white)
-
 
 [![](https://raw.githubusercontent.com/renshimosawa/renshimosawa/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/renshimosawa/renshimosawa/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/renshimosawa/renshimosawa/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

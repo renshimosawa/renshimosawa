@@ -1,5 +1,5 @@
 ### Profile
-<p>I'm a frontend-engineer, working remotely at Hachinohe, Aomori.<br />
+<p>remotely frontend-engineer<br />
 I'm good at Next, TypeScript, React.<br />
 This is personal account. I'm usualy using another.
 </p>
